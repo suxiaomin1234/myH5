@@ -1,0 +1,176 @@
+@font-face {  
+    font-family: 'WRYH';  
+    src: url('./fires/微软雅黑.ttf');   
+} 
+@font-face {  
+    font-family: 'FZSHJW_0';  
+    src: url('./fires/FZSHJW_0.TTF');   
+}  
+@font-face {  
+    font-family: 'FZXKJW_0';  
+    src: url('./fires/FZXKJW_0.TTF');   
+}  
+@font-face {  
+    font-family: 'BYXS';  
+    src: url('./fires/博洋行书3500.TTF');   
+}  
+@font-face {  
+    font-family: 'FZCHYJT';  
+    src: url('./fires/方正粗活意简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZCSFT';  
+    src: url('./fires/方正粗宋繁体.ttf');   
+}
+@font-face {  
+    font-family: 'FZCSJT';  
+    src: url('./fires/方正粗宋简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZCSYT';  
+    src: url('./fires/方正粗圆简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZDBSJT';  
+    src: url('./fires/方正大标宋简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZHTJT';  
+    src: url('./fires/方正黑体简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZHCJT';  
+    src: url('./fires/方正黄草简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZKTT';  
+    src: url('./fires/方正卡通简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZKTJT';  
+    src: url('./fires/方正楷体简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZKTJT1';  
+    src: url('./fires/方正康体简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZLSGBK';  
+    src: url('./fires/方正隶书_GBK.ttf');   
+}
+@font-face {  
+    font-family: 'FZLXTJT';  
+    src: url('./fires/方正流行体简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZQTJT';  
+    src: url('./fires/方正启体简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZXDXJT';  
+    src: url('./fires/方正细等线简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZXSHJT';  
+    src: url('./fires/方正细珊瑚简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZXZT';  
+    src: url('./fires/方正小篆体.ttf');   
+}
+@font-face {  
+    font-family: 'FZYBXSFT';  
+    src: url('./fires/方正硬笔行书繁体.ttf');   
+}
+@font-face {  
+    font-family: 'FZYBXSJT';  
+    src: url('./fires/方正硬笔行书简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZZBHJT';  
+    src: url('./fires/方正毡笔黑简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZZDHJT';  
+    src: url('./fires/方正正大黑简体.TTF');   
+}
+@font-face {  
+    font-family: 'FZZDXGBK';  
+    src: url('./fires/方正中等线_GBK.TTF');   
+}
+@font-face {  
+    font-family: 'FZZYJT';  
+    src: url('./fires/方正准圆简体.ttf');   
+}
+@font-face {  
+    font-family: 'FZZYFT';  
+    src: url('./fires/方正综艺繁体.ttf');   
+}
+@font-face {  
+    font-family: 'FZZYJT1';  
+    src: url('./fires/方正综艺简体.ttf');   
+}
+@font-face {  
+    font-family: 'HYBQTJ';  
+    src: url('./fires/汉仪白棋体简.ttf');   
+}
+@font-face {  
+    font-family: 'HYBQJT';  
+    src: url('./fires/汉仪柏青体简.ttf');   
+}
+@font-face {  
+    font-family: 'HYKTJ';  
+    src: url('./fires/汉仪楷体简.ttf');   
+}
+@font-face {  
+    font-family: 'HYXDXJ';  
+    src: url('./fires/汉仪细等线简.ttf');   
+}
+@font-face {  
+    font-family: 'HKHBT';  
+    src: url('./fires/华康海报体.ttf');   
+}
+@font-face {  
+    font-family: 'HWZS';  
+    src: url('./fires/华文中宋.ttf');   
+}
+@font-face {  
+    font-family: 'JQT';  
+    src: url('./fires/简启体.TTF');   
+}
+@font-face {  
+    font-family: 'JTYT2';  
+    src: url('./fires/简体颜体2.ttf');   
+}
+@font-face {  
+    font-family: 'JDFYT';  
+    src: url('./fires/经典繁颜体.TTF');   
+}
+@font-face {  
+    font-family: 'SFJTGY';  
+    src: url('./fires/书法家淡古印.TTF');   
+}
+@font-face {  
+    font-family: 'SFJXST';  
+    src: url('./fires/书法家行书体.TTF');   
+}
+@font-face {  
+    font-family: 'SFJYKT';  
+    src: url('./fires/书法家颜楷体.TTF');   
+}
+@font-face {  
+    font-family: 'WRJTLS';  
+    src: url('./fires/微软简隶书.TTF');   
+}
+@font-face {  
+    font-family: 'WDPLT';  
+    src: url('./fires/文鼎霹雳体.TTF');   
+}
+@font-face {  
+    font-family: 'WDZTGGT';  
+    src: url('./fires/文鼎中特广告体.ttf');   
+}
+@font-face {  
+    font-family: 'ZGLYZT';  
+    src: url('./fires/中国龙莹篆体.TTF');   
+}
